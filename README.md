@@ -10,4 +10,4 @@
 
 // Peer Review By: Kyle Yok Eyh Ma 
 
-// Peer Review: Good job. I like the overall simplisticity of the design. Some alignments could be better on smaller scale
+// Peer Review: Good job. I like the overall simplisticity of the design. Navbar could be collapsible although, especially on mobile
